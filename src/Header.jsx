@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <header className="fixed w-full flex justify-between items-center px-8 py-5 border-b border-gray-300 bg-white">
+    <header className="fixed w-full flex justify-between items-center px-8 py-5 border-b border-gray-300 bg-white z-10">
        <h1 className="text-xl font-light tracking-wide uppercase">
         <a href="#" className="transition-opacity duration-300 hover:opacity-70">
           JM Photography
