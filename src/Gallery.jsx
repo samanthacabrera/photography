@@ -5,7 +5,7 @@ const Gallery = () => {
   ];
 
   return (
-    <div id="gallery" className="flex flex-col space-y-8 max-w-6xl mx-auto">
+    <div id="gallery" className="flex flex-col space-y-8 max-w-6xl mx-auto pt-20">
       <h1 className="text-3xl font-light tracking-wide uppercase my-12">Gallery</h1>
 
       <div className="grid grid-cols-1 gap-6">
